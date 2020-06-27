@@ -1,6 +1,6 @@
 ﻿/* 
-       ^ Author    : LimerBoy
-       ^ Name      : ToxicEye-RAT
+       ^ Author    : Tural Aliyev
+       ^ Name      : Telegram-RAT
        ^ Github    : https:github.com/Turalaliev
 
        > This program is distributed for educational purposes only.
